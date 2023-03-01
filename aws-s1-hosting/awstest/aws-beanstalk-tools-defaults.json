@@ -1,0 +1,20 @@
+
+{
+    "region" : "us-east-1",
+    "configuration" : "Debug",
+    "framework"     : "net6.0",
+    "self-contained" : false,
+    "application"    : "awstest-vs",
+    "environment"    : "awstest-vs-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-00313be340e865840\";\"aws:ec2:vpc,Subnets\"=\"subnet-0c88a7f3156b221da\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.5.0 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "awstest-vs",
+    "instance-type"        : "m1.small",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role",
+    "proxy-server"         : "nginx"
+}

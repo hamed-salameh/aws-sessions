@@ -1,0 +1,11 @@
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\awstest
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\appsettings.json
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\awstest.dll
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\awstest.deps.json
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\awstest.runtimeconfig.json
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\awstest.pdb
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\work\aws-s1-hosting\awstest\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

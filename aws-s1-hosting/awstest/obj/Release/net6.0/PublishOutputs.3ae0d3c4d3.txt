@@ -1,0 +1,11 @@
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\awstest.exe
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\appsettings.Development.json
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\appsettings.json
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\awstest.dll
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\awstest.deps.json
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\awstest.runtimeconfig.json
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\awstest.pdb
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\Microsoft.OpenApi.dll
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\Swashbuckle.AspNetCore.Swagger.dll
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\TEMP\bbaa1e38-56e4-487b-8bbb-5e997fc298d9\Swashbuckle.AspNetCore.SwaggerUI.dll
